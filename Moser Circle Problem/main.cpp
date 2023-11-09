@@ -1,6 +1,6 @@
 #include "header.h"
 
-// main
+// main function
 int main() {
 	int iterations;
 	int interval;
