@@ -1,5 +1,6 @@
 #include "header.h"
 
+// a comment
 int main() {
 	int iterations;
 	int interval;
