@@ -1,10 +1,9 @@
 # Moser Circle Problem
-- This program was written with [Jaxen Roden]([url](https://github.com/isaiahpfisher/chess)https://github.com/jaxenroden).
+- This program was written with [Jaxen Roden](https://github.com/jaxenroden).
 - It was inspired by 3B1B's [video](https://www.youtube.com/watch?v=YtkIWDE36qU) on the [Moser Circle pattern](https://en.wikipedia.org/wiki/Dividing_a_circle_into_areas) (or lack thereof).
 ---
 ### The Question
-- Moser's Circle problem asks how many _r_ regions a circle will be divided into if it is intersected by _n_ lines.
-For the first few _n_, _r_ is a power of two:
+Moser's Circle problem asks how many _r_ regions a circle will be divided into if it is intersected by _n_ lines. For the first few _n_, _r_ is a power of two:
 - With **0** lines, there is **1** region.
 - With **1** line, there are **2** regions.
 - With **2** lines, there are **4** regions.
